@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m @moneyforward-hoai-nam-dao
 - 🔭 Next month i will work in japan
--
+- ...
 
 <!---
 moneyforward-hoai-nam-dao/moneyforward-hoai-nam-dao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
